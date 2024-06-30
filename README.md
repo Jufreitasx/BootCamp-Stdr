@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/Jufreitasx/BootCamp-Stdr/blob/main/tech.jpg"
     width="300"
 />
 </p>
